@@ -1,0 +1,132 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #00008b;
+}
+
+/* Registration Page Code */
+.sign-up {
+  width: 23.75em;
+  height: 710px;
+  margin: auto;
+  margin-top: 25px;
+  background-color: #add8e6;
+  border: none;
+  border-radius: 3px;
+}
+
+header {
+  text-align: center;
+  padding-top: 15px;
+}
+
+form {
+  width: 300px;
+  margin-left: 30px;
+}
+
+form label {
+  display: flex;
+  margin-top: 15px;
+  font-size: 18px;
+}
+
+form input {
+  padding: 7px;
+  width: 100%;
+  border: none;
+  border-radius: 5px;
+}
+
+.p-login {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.p-login a {
+  color: #add8e6;
+}
+
+span {
+  color: white;
+}
+
+.submit {
+  margin-top: 18px;
+  background-color: #00008b;
+  color: white;
+  height: 45px;
+  width: 16.12em;
+  margin-left: 48px;
+}
+
+/* Login Page */
+.login-div {
+  width: 360px;
+  height: 280px;
+  margin: auto;
+  margin-top: 80px;
+  border: none;
+  border-radius: 20px;
+  background-color: #add8e6;
+}
+
+.btn {
+  margin-top: 30px;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #00008b;
+  height: 45px;
+  width: 16.12em;
+  margin-left: 41px;
+  color: white;
+}
+
+.p-signup {
+  text-align: center;
+  margin-top: 15px;
+  color: white;
+}
+
+.p-signup a {
+  color: #add8e6;
+}
+
+/* Sucess page */
+.success-page {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  position: relative;
+  top: 160px;
+  background-color: #add8e6;
+  border: none;
+  border-radius: 20px;
+}
+
+.success-page img {
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    margin-top: 40px;
+}
+
+.success-page h3 {
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+    color: #00008b;
+}
+
+.success-page p {
+    text-align: center;
+    padding-top: 15px;
+    font-weight: lighter;
+    letter-spacing: 1px;
+    font-size: 15px;
+}
