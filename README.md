@@ -1,1 +1,1 @@
-This file contains all the assignments given by zuri
+This file contains week 3's task. 
